@@ -1521,5 +1521,9 @@
   "Trade the new BTT token": "Trade the new BTT token",
   "here": "here",
   "For more details on the swap, please refer here.": "For more details on the swap, please refer here.",
-  "Insufficient WBNB balance": "Insufficient WBNB balance"
+  "Insufficient WBNB balance": "Insufficient WBNB balance",
+  "Important Information": "Important Information",
+  "Currently showing charts from Chainlink.": "Currently showing charts from Chainlink.",
+  "Prices chart is in relatively low fidelity.": "Prices chart is in relatively low fidelity.",
+  "Prices on charts is in relatively slower to respond.": "Prices on charts is in relatively slower to respond."
 }
