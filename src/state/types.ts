@@ -230,7 +230,7 @@ export enum PredictionStatus {
 
 export enum PredictionsChartView {
   TradingView = 'TradingView',
-  Chainlink = 'Chainlink',
+  Chainlink = 'Chainlink Oracle',
 }
 
 export interface Round {
